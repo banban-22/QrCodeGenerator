@@ -30,7 +30,7 @@ const QrCodeGenerator = () => {
 
   return (
     <div className="qrcode__container">
-      <h1>Please add URL Here!</h1>
+      <h1>QRCode Generator</h1>
       <div className="qrcode__container--parent">
         <div className="qrcode__input">
           <input
