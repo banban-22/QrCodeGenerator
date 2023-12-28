@@ -1,5 +1,11 @@
+import QrCodeGenerator from './component/QrCodeGenerator';
+
 function App() {
-  return <div className="App">App</div>;
+  return (
+    <>
+      <QrCodeGenerator />
+    </>
+  );
 }
 
 export default App;

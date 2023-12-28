@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.qrcode__container {
+}
+
+.qrcode__container--parent {
+}
+
+.qrcode__input {
+}
